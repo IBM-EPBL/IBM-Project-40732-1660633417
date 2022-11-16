@@ -4,10 +4,10 @@
 
 Team ID : **PNT2022TMID21208**
 
-* Team Leader : Arvin Danny C.S
-* Team member : Nitin Vinayak S
-* Team member : Maryada Kumar Lodha D.
-* Team member : Shaambhavi S
+* Team Leader : Arvin Danny C.S (917719C008)
+* Team member : Nitin Vinayak S (917719C062)
+* Team member : Maryada Kumar Lodha D. (917719C054)
+* Team member : Shaambhavi S (917719C089)
 
 
 **Status** :
